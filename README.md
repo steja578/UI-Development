@@ -8,4 +8,4 @@ Implemented a JavaScript function (addToCart()) that shows an alert when the ite
 
 Styled buttons with custom colors and demonstrated Bootstrap button variants (primary, secondary, success, warning, danger).
 
-Practiced basic UI styling, layout,and interactivity.
+Practiced basic UI styling, layout,and interactivity. #
