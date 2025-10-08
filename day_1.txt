@@ -1,0 +1,32 @@
+tools/ softwares
+
+1. NodeJS
+install node.NodeJSrun to check
+node -v
+
+2.
+install vs code
+
+3. git(code versioning tool)
+install git software
+
+
+web development
+
+1.Frontend : user interface( look and feel)
+HTML: content(div, paragraph, image, table, link, form, audio)
+CSS: Styling (border, background, margin, padding, width, height)
+Bootstrap: CSS Library (twitter) (pre-defined css classes, responsiveness-dont break elemets)
+Javascript: To manage Behaviour of a page 
+Angular/React: Javascript Framework(Boilerplate project, Rapid application development, command line interface, Template system(if elsde condition in html file))
+
+2.Backend: Develop APIs(Java, .net, python, node.js, Go)
+3. Database: Stores the data (Oracle, MySQL, postgres, mongodb, dynamoDB)
+
+Flipkart product module:
+1. create an HTML file
+2. !(emmet / shortcut) add boilerpalte HTML code
+emmet.io(cheet sheet)
+3. add html, css code4. to open/run html file inbrowser
+    a. install vs code extension(open in browser)
+    b. alt+b / alte
