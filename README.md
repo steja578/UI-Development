@@ -1,4 +1,4 @@
-🧾 UI Development - Day Summary
+UI Development - Day Summary
 
 Created a product display page using HTML, CSS, and Bootstrap 5.
 
