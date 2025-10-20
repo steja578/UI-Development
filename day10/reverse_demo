@@ -1,0 +1,13 @@
+//reverse()
+//It reverses the array in place (changes the original array).
+
+const arr = [1, 2, 3];
+arr.reverse();
+console.log(arr); // [3, 2, 1] 
+
+//toReversed()
+//It returns a new array with the elements in reverse order without modifying the original array.
+const arr = [1, 2, 3];
+const newArr = arr.toReversed();
+console.log(newArr); // [3, 2, 1]   
+console.log(arr); // [1, 2, 3]
