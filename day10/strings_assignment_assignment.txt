@@ -37,3 +37,8 @@
 10. Ask user to enter a  string , and display in below format
     input: aaabbc
     output : a3b2c1
+
+
+ 
+
+
