@@ -1,11 +1,16 @@
-🧾 UI Development - Day Summary
 
-Created a product display page using HTML, CSS, and Bootstrap 5.
+### 🧾 **UI Development – Day Summary**
 
-Displayed a product image (backpack) with “Add to Cart” and “Buy Now” buttons.
+* **HTML & Bootstrap 5:**
+  Created a **product display page** showcasing a backpack with structured layout and responsive design using Bootstrap’s grid system. Added **“Add to Cart”** and **“Buy Now”** buttons with built-in Bootstrap variants (primary, secondary, success, warning, danger).
 
-Implemented a JavaScript function (addToCart()) that shows an alert when the item is added to the cart.
+* **CSS:**
+  Applied **custom styling** for buttons, product container, and text alignment. Practiced **color customization**, **hover effects**, and **spacing adjustments** using margins and padding. Enhanced UI consistency through **class-based selectors** and **responsive design techniques**.
 
-Styled buttons with custom colors and demonstrated Bootstrap button variants (primary, secondary, success, warning, danger).
+* **JavaScript:**
+  Implemented an **interactive addToCart() function** that triggers an alert message when the user clicks “Add to Cart.” Practiced **DOM manipulation**, **event handling**, and basic **function creation** to add interactivity and improve user experience.
 
-Practiced basic UI styling, layout,and interactivity etc..
+* **Overall Focus:**
+  Strengthened skills in **UI layout, component styling, and dynamic interaction** using **HTML, CSS, Bootstrap, and JavaScript** for modern front-end development.
+
+---
