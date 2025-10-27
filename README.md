@@ -10,7 +10,4 @@
 * **JavaScript:**
   Implemented an **interactive addToCart() function** that triggers an alert message when the user clicks “Add to Cart.” Practiced **DOM manipulation**, **event handling**, and basic **function creation** to add interactivity and improve user experience.
 
-* **Overall Focus:**
-  Strengthened skills in **UI layout, component styling, and dynamic interaction** using **HTML, CSS, Bootstrap, and JavaScript** for modern front-end development.
 
----
